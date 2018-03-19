@@ -1,0 +1,41 @@
+h1 {
+background-position: top;
+background-image: url(https://unsplash.com/photos/jR4Zf-riEjI);
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+text-align: center;
+font-family: Helvetica;
+}
+
+.container {
+  background-image: url("../images/tile.jpeg");
+}
+#brush {
+  background-image: url(https://unsplash.com/photos/o-34NPugMNo);
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+
+.price {
+    font-family: Helvetica;
+    color: blue;
+    font-weight: bold;
+  }
+
+h1, h2, h3, p {
+  font-family: Helvetica;
+}
+
+#frame {
+  background-color: lightcoral;
+    color: white
+}
+
+#paint {
+  background-color: skyblue;
+  color: white;
+}
